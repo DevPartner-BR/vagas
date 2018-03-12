@@ -1,2 +1,2 @@
 # vagas
-Vagas Abertas na DevPartner
+Em Construção
